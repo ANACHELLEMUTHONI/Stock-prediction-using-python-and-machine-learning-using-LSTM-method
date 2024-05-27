@@ -6,3 +6,4 @@ Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) archit
 ## Steps taken to develop the stock market prediction
 
 First, I perform exporatory analysis of my data. I then proceed to clean my data and fill any missing values
+Nice projects
